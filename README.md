@@ -52,7 +52,7 @@
 <div class="bar"><div class="lowlight" style="width:55%">SQL - 55%</div></div>
 <div class="bar"><div class="" style="width:60%">Java - 60%</div></div>
 <div class="bar"><div class="highlight" style="width:70%">C# - 70%</div></div>
-<div class="bar"><div class="" style="width:65%">C++ - 65%</div></div>
+<div class="bar"><div class="" style="width:55%">C++ - 55%</div></div>
 <div class="bar"><div class="" style="width:80%">GDScript - 80%</div></div>
 <div class="bar"><div class="highlight" style="width:40%">Rust (studying) - 40%</div></div>
 <br>
@@ -74,6 +74,7 @@ _Based on a general ranking compared to 100 other applicants._
 <div class="bar"><div class="lowlight" style="width:35%">.Net - 35%</div></div>
 <br/>
 <div class="bar"><div class="highlight" style="width:70%">Linux (Ubuntu +Minimal) - 70%</div></div>
+<div class="bar"><div class="" style="width:55%">Machine Language - 55%</div></div>
 <div class="bar"><div class="" style="width:50%">Android - 50%</div></div>
 <div class="bar"><div class="lowlight" style="width:30%">iOS - 30%</div></div>
 <div class="bar"><div class="" style="width:55%">Discord - 55%</div></div>
