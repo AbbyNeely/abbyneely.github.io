@@ -72,7 +72,11 @@ _Based on a general ranking compared to 100 other applicants._
 <div class="bar"><div class="lowlight" style="width:50%">Angular - 50%</div></div>
 <div class="bar"><div class="" style="width:60%">Vue - 60%</div></div>
 <div class="bar"><div class="lowlight" style="width:35%">.Net - 35%</div></div>
-<br/>
+
+_Based on a general ranking compared to 100 other applicants._
+<br>
+
+### Software Platforms
 <div class="bar"><div class="highlight" style="width:70%">Linux (Ubuntu +Minimal) - 70%</div></div>
 <div class="bar"><div class="" style="width:55%">Machine Language - 55%</div></div>
 <div class="bar"><div class="" style="width:50%">Android - 50%</div></div>
