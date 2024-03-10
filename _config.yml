@@ -4,3 +4,12 @@ title: Abigail Neely
 description: Computer Science and Technology Resume
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+author:
+  name: Abby Neely
+  url: http://abbyduck.github.com
+
+repos:
+- name: guides-template
+  description: 
+  url: https://github.com/DCgov/guides-template
