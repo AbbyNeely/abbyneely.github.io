@@ -54,11 +54,10 @@
 <div class="bar"><div class="highlight" style="width:70%">C# - 70%</div></div>
 <div class="bar"><div class="" style="width:55%">C++ - 55%</div></div>
 <div class="bar"><div class="" style="width:80%">GDScript - 80%</div></div>
-<div class="bar"><div class="highlight" style="width:40%">Rust (studying) - 40%</div></div>
+<div class="bar"><div class="highlight" style="width:70%">Rust (studying proc-marcos) - 70%</div></div>
 <br>
 <div class="bar"><div class="" style="width:70%">Raspberry Pi - 70%</div></div>
 <div class="bar"><div class="" style="width:60%">Arduino - 60%</div></div>
-<div class="bar"><div class="lowlight" style="width:55%">BASIC - 55%</div></div>
 
 _Based on a general ranking compared to 100 other applicants._
 <br>
@@ -78,7 +77,6 @@ _Based on a general ranking compared to 100 other applicants._
 
 ### Software Platforms
 <div class="bar"><div class="highlight" style="width:70%">Linux (Ubuntu +Minimal) - 70%</div></div>
-<div class="bar"><div class="" style="width:55%">Machine Language - 55%</div></div>
 <div class="bar"><div class="" style="width:50%">Android - 50%</div></div>
 <div class="bar"><div class="lowlight" style="width:30%">iOS - 30%</div></div>
 <div class="bar"><div class="" style="width:55%">Discord - 55%</div></div>
