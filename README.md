@@ -89,10 +89,10 @@ _Based on a general ranking compared to 100 other applicants._
 ## Projects
 ### Artamis Programming Language
 Is an amorphous JIT language, automates Information Systems using dynamic custom compiler. Parsing known formats (Markdown, XML, JSON) and custom user formats, it can execute code segments within the static files on read. ARTAMIS currently finds applications in _Compiler Creation, Machine Learning, Automated Video Editing, Content Generation,_ and _Video Game Development_.
-A web portal to try the Artamis Programming Language is still under development, however more information can be found at: [artamis.ca](https://artamis.ca/about/artamis)
+A web portal to try the Artamis Programming Language is still under development, however more information can be found at: [artamis.ca](https://www.artamis.ca/about/artamis)
 
 ### 2D Platformer Game
-Combining expertise in Arts and Computer Science, I'm crafting a professional 2D Platformer MVP to showcase my skills in game development. This project demonstrates my ability to merge artistic creativity with technical proficiency to deliver engaging and polished game experiences. The project will soon be available to try on [itch.io](https://itch.io) on date TBD
+Combining expertise in Arts and Computer Science, I'm crafting a professional 2D Platformer MVP to showcase my skills in game development. This project demonstrates my ability to merge artistic creativity with technical proficiency to deliver engaging and polished game experiences. The project will soon be available to try on [itch.io](https://www.itch.io) on date TBD
 
 ## Awards
 **2013 YMCA Peace Award** - _For my contributions to “Ten Miles Out”_
