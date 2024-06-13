@@ -88,10 +88,9 @@ _Based on a general ranking compared to 100 other applicants._
 
 ## Projects
 ### Artamis Programming Language
+<img title="artamis-logo" alt="ARTAMIS logo" src="/assets/img/logo-cropped.png" style="max-height:80px">
 Is an amorphous JIT language, automates Information Systems using dynamic custom compiler. Parsing known formats (Markdown, XML, JSON) and custom user formats, it can execute code segments within the static files on read. ARTAMIS currently finds applications in _Compiler Creation, Machine Learning, Automated Video Editing, Content Generation,_ and _Video Game Development_.
 A web portal to try the Artamis Programming Language is still under development, however more information can be found at: [artamis.ca](https://www.artamis.ca/about/artamis)
-
-<img title="artamis-logo" alt="ARTAMIS logo" src="/assets/img/logo-cropped.png">
 
 ### 2D Platformer Game
 Combining expertise in Arts and Computer Science, I'm crafting a professional 2D Platformer MVP to showcase my skills in game development. This project demonstrates my ability to merge artistic creativity with technical proficiency to deliver engaging and polished game experiences. The project will soon be available to try on [itch.io](https://www.itch.io) on date TBD
