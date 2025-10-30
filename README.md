@@ -19,7 +19,7 @@
 **Computer Engineering Tech.** -@- Mohawk College (_2019_)
 - Developed skills in computer engineering technology while sharpening them by helping others.
 
-**General Business** -@- Mohawk College (_PRESENT_)
+**General Business** -@- Mohawk College (_2025_)
 - Developing my business skills in many areas while learning to apply them to personal and professional situations.
 
 **Computer Science & Perf. Arts** -@- Glendale Secondary (_2014_)
@@ -87,13 +87,22 @@ _Based on a general ranking compared to 100 other applicants._
 <hr>
 
 ## Projects
+### Habit Tracker App
+Drawing on my experience with frontend, backend, and database technologies, I am creating a simple but sophisticated app that helps users to define, track, and nurture their personal habits and lifestyle changes. By using AI-driven insights, it offers gentle personalized recommendations that users could utilize in order to grow and move closer to their preferred life goals in a meaningful and motivating way.
+The project can be found at the [project page](https://github.com/AbbyDuhDuck/Habit-Tracker) on my GitHub.
+
 ### Artamis Programming Language
 <img title="artamis-logo" alt="ARTAMIS logo" src="/assets/img/logo-cropped.png" style="max-height:80px"><br/>
 Is an amorphous JIT language, automates Information Systems using dynamic custom compiler. Parsing known formats (Markdown, XML, JSON) and custom user formats, it can execute code segments within the static files on read. ARTAMIS currently finds applications in _Compiler Creation, Machine Learning, Automated Video Editing, Content Generation,_ and _Video Game Development_.
 A web portal to try the Artamis Programming Language is still under development, however more information can be found at: [artamis.ca](https://www.artamis.ca/about/artamis)
 
+### Livestream Helper Bot
+An event driven bot creation framework for use alongside livestreaming and content creation on Twitch, YouTube, and potentially other platforms in the future. Intended to be used as a backend library for a user to create any type of livestreaming adjacent tool, it can also be used as a stand alone content creation bot, and has interfaces for connecting to a wide variaty of livestreaming tools that are currently in use. A standard frontend UI is planned for the future.
+The project can be found at the [project page](https://github.com/AbbyDuhDuck/StreamBot) on my GitHub.
+
+<!--
 ### 2D Platformer Game
-Combining expertise in Arts and Computer Science, I'm crafting a professional 2D Platformer MVP to showcase my skills in game development. This project demonstrates my ability to merge artistic creativity with technical proficiency to deliver engaging and polished game experiences. The project will soon be available to try on [itch.io](https://www.itch.io) on date TBD
+Combining expertise in Arts and Computer Science, I'm crafting a professional 2D Platformer MVP to showcase my skills in game development. This project demonstrates my ability to merge artistic creativity with technical proficiency to deliver engaging and polished game experiences. The project will soon be available to try on [itch.io](https://www.itch.io) on date TBD-->
 
 ## Awards
 **2013 YMCA Peace Award** - _For my contributions to “Ten Miles Out”_
